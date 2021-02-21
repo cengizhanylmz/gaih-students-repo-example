@@ -1,5 +1,5 @@
 # GAIH Student Repo Example
-![](img/logo.png)
+![](main/logo.png)
 
 **Course Date:** 15.02.2021  
 
