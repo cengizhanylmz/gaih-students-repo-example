@@ -16,5 +16,5 @@ RECIPE APPLICATION
 
 
 ### Certification
-![](https://github.com/cengizhanylmz/gaih-students-repo-example/blob/main/Adsız.png)
+![](https://github.com/cengizhanylmz/gaih-students-repo-example/blob/main/11.png)
 
