@@ -67,7 +67,7 @@ while True:
     except ValueError:
         print("Herhangi bir öğrenci bilgisi bulunmamaktadır. Lütfen ilk önce öğrenci bilgisi giriniz!")
         print("---------------")
-        break    #buraya countinue yazmak istedim ancak expect bloğundan çıkıp tekrar öğrenci eklemek istediğimiz zaman hata veriyor onu çözemedim.
+        break   
 
 
 
